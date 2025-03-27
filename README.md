@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-I am a **Computer Science student** at Philipps-Universität Marburg and work as a **Werkstudent**.  
+I am a **Computer Science student** at Philipps-Universität Marburg in Germany and work as a **Werkstudent** at the same university.  
 
-### 🎮 Platformer Development  
-Currently, I am developing a **new platformer game** in Java, focusing on level generation, rendering optimization, and gameplay mechanics. The project incorporates **Dominion** for entity and component management.  
+### Low-poly flight-simulator development  
+Currently, I am developing a **new flight-simulator game** on Godot.
 
-### 🛠️ Technologies & Interests  
-- **Languages:** Java, Python, SQL  
-- **Interests:** Game development, computer networks, theoretical computer science  
+### Interests    
+- Game development, theoretical computer science, graphics
 
 Always interested in discussing development, exchanging ideas, and learning from others.
